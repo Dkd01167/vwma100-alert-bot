@@ -143,8 +143,14 @@ def check_symbol(ex, exchange_id, symbol):
     }
 
 
+EXCHANGE_CONFIG = {
+    "bybit": {"enableRateLimit": True, "hostname": "bytick.com", "options": {"defaultType": "swap"}},
+}
+
+
 def scan_exchange(exchange_id):
-    ex = getattr(ccxt, exchange_id)({"enableRateLimit": True, "options": {"defaultType": "swap"}})
+    config = EXCHANGE_CONFIG.get(exchange_id, {"enableRateLimit": True, "options": {"defaultType": "swap"}})
+    ex = getattr(ccxt, exchange_id)(config)
     markets = ex.load_markets()
     symbols = [
         m["symbol"] for m in markets.values()
