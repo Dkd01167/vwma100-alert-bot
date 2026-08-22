@@ -1,380 +1,272 @@
 {
   "TRX/USDT:USDT": {
     "symbol": "TRX/USDT:USDT",
-    "close": 0.34406,
-    "vwma100": 0.3347559558669631,
-    "pct_above": 2.77935133639099
-  },
-  "DOGE/USDT:USDT": {
-    "symbol": "DOGE/USDT:USDT",
-    "close": 0.09136,
-    "vwma100": 0.08364128814797994,
-    "pct_above": 9.228351240076488
+    "close": 0.34612,
+    "vwma100": 0.3347885299506725,
+    "pct_above": 3.3846649558146655
   },
   "ICP/USDT:USDT": {
     "symbol": "ICP/USDT:USDT",
-    "close": 2.57,
-    "vwma100": 2.435983261338591,
-    "pct_above": 5.501545958397335
+    "close": 2.673,
+    "vwma100": 2.4365019288320213,
+    "pct_above": 9.706459427321205
   },
   "AXS/USDT:USDT": {
     "symbol": "AXS/USDT:USDT",
-    "close": 1.072,
-    "vwma100": 1.0491473768774817,
-    "pct_above": 2.1782090510995054
-  },
-  "DASH/USDT:USDT": {
-    "symbol": "DASH/USDT:USDT",
-    "close": 39.94,
-    "vwma100": 38.06768026518877,
-    "pct_above": 4.918397238203617
-  },
-  "MANA/USDT:USDT": {
-    "symbol": "MANA/USDT:USDT",
-    "close": 0.0778,
-    "vwma100": 0.07215103994167868,
-    "pct_above": 7.829353621080856
-  },
-  "EGLD/USDT:USDT": {
-    "symbol": "EGLD/USDT:USDT",
-    "close": 3.247,
-    "vwma100": 3.0305967950249992,
-    "pct_above": 7.140613536259465
+    "close": 1.097,
+    "vwma100": 1.0492835054636391,
+    "pct_above": 4.547531176073973
   },
   "KSM/USDT:USDT": {
     "symbol": "KSM/USDT:USDT",
-    "close": 3.707,
-    "vwma100": 3.5357664449853607,
-    "pct_above": 4.842897789742107
-  },
-  "IOTA/USDT:USDT": {
-    "symbol": "IOTA/USDT:USDT",
-    "close": 0.0459,
-    "vwma100": 0.042699554205230354,
-    "pct_above": 7.495267466697861
+    "close": 3.884,
+    "vwma100": 3.5366287740445954,
+    "pct_above": 9.822100314988397
   },
   "APE/USDT:USDT": {
     "symbol": "APE/USDT:USDT",
-    "close": 0.1447,
-    "vwma100": 0.1417481174708838,
-    "pct_above": 2.0824844673669296
-  },
-  "ZRX/USDT:USDT": {
-    "symbol": "ZRX/USDT:USDT",
-    "close": 0.0957,
-    "vwma100": 0.0890487245101333,
-    "pct_above": 7.46925408135386
-  },
-  "C98/USDT:USDT": {
-    "symbol": "C98/USDT:USDT",
-    "close": 0.0165,
-    "vwma100": 0.015400957477847293,
-    "pct_above": 7.136196069196144
-  },
-  "OP/USDT:USDT": {
-    "symbol": "OP/USDT:USDT",
-    "close": 0.1077,
-    "vwma100": 0.10315215182261218,
-    "pct_above": 4.408873782108419
-  },
-  "MASK/USDT:USDT": {
-    "symbol": "MASK/USDT:USDT",
-    "close": 0.4365,
-    "vwma100": 0.3973748882137881,
-    "pct_above": 9.845894380009884
+    "close": 0.1546,
+    "vwma100": 0.14177035344543695,
+    "pct_above": 9.049597636434454
   },
   "MAGIC/USDT:USDT": {
     "symbol": "MAGIC/USDT:USDT",
-    "close": 0.04727,
-    "vwma100": 0.04528723827690047,
-    "pct_above": 4.378190851418892
+    "close": 0.04843,
+    "vwma100": 0.04529162278766661,
+    "pct_above": 6.929266427583171
   },
   "CFX/USDT:USDT": {
     "symbol": "CFX/USDT:USDT",
-    "close": 0.04983,
-    "vwma100": 0.048498536971629744,
-    "pct_above": 2.7453674100501697
+    "close": 0.0516,
+    "vwma100": 0.04850643002532748,
+    "pct_above": 6.37764925816479
   },
   "ANKR/USDT:USDT": {
     "symbol": "ANKR/USDT:USDT",
-    "close": 0.004048,
-    "vwma100": 0.003909720957820311,
-    "pct_above": 3.5368008016812666
+    "close": 0.004148,
+    "vwma100": 0.003910362351856781,
+    "pct_above": 6.077126024660594
+  },
+  "ACH/USDT:USDT": {
+    "symbol": "ACH/USDT:USDT",
+    "close": 0.005193,
+    "vwma100": 0.0048831859194407145,
+    "pct_above": 6.344507165411574
   },
   "LQTY/USDT:USDT": {
     "symbol": "LQTY/USDT:USDT",
-    "close": 0.2182,
-    "vwma100": 0.21148965465163472,
-    "pct_above": 3.1728953169924807
+    "close": 0.2264,
+    "vwma100": 0.21150091162783893,
+    "pct_above": 7.044455864274372
   },
-  "ARB/USDT:USDT": {
-    "symbol": "ARB/USDT:USDT",
-    "close": 0.098,
-    "vwma100": 0.08914914314302728,
-    "pct_above": 9.928145739743972
+  "HBAR/USDT:USDT": {
+    "symbol": "HBAR/USDT:USDT",
+    "close": 0.08285,
+    "vwma100": 0.07974914956303987,
+    "pct_above": 3.8882551775790057
   },
   "JOE/USDT:USDT": {
     "symbol": "JOE/USDT:USDT",
-    "close": 0.03209,
-    "vwma100": 0.030749227581006656,
-    "pct_above": 4.3603450378100534
-  },
-  "SUI/USDT:USDT": {
-    "symbol": "SUI/USDT:USDT",
-    "close": 0.8445,
-    "vwma100": 0.8087012450111968,
-    "pct_above": 4.426697152952646
-  },
-  "IOTX/USDT:USDT": {
-    "symbol": "IOTX/USDT:USDT",
-    "close": 0.003032,
-    "vwma100": 0.0028242722207010053,
-    "pct_above": 7.355090553113719
+    "close": 0.03298,
+    "vwma100": 0.030754597930105623,
+    "pct_above": 7.235997930949822
   },
   "CTK/USDT:USDT": {
     "symbol": "CTK/USDT:USDT",
-    "close": 0.1233,
-    "vwma100": 0.1189387458515576,
-    "pct_above": 3.6668069073853378
-  },
-  "ZEN/USDT:USDT": {
-    "symbol": "ZEN/USDT:USDT",
-    "close": 5.29,
-    "vwma100": 4.903150613384852,
-    "pct_above": 7.889812431196952
+    "close": 0.1266,
+    "vwma100": 0.11903509488676677,
+    "pct_above": 6.355188879741232
   },
   "1000XEC/USDT:USDT": {
     "symbol": "1000XEC/USDT:USDT",
-    "close": 0.007772,
-    "vwma100": 0.00732158430786029,
-    "pct_above": 6.151888350942758
+    "close": 0.007954,
+    "vwma100": 0.007321726080065759,
+    "pct_above": 8.63558555755969
   },
   "YGG/USDT:USDT": {
     "symbol": "YGG/USDT:USDT",
-    "close": 0.02451,
-    "vwma100": 0.023350009910521503,
-    "pct_above": 4.967835533790528
+    "close": 0.02545,
+    "vwma100": 0.02335822443587202,
+    "pct_above": 8.955199355459442
   },
   "OGN/USDT:USDT": {
     "symbol": "OGN/USDT:USDT",
-    "close": 0.01895,
-    "vwma100": 0.01779970760708252,
-    "pct_above": 6.462422969576073
-  },
-  "TIA/USDT:USDT": {
-    "symbol": "TIA/USDT:USDT",
-    "close": 0.3977,
-    "vwma100": 0.37156009413711677,
-    "pct_above": 7.035175810144138
+    "close": 0.01934,
+    "vwma100": 0.01780028613413907,
+    "pct_above": 8.649938850746455
   },
   "MEME/USDT:USDT": {
     "symbol": "MEME/USDT:USDT",
-    "close": 0.0005805,
-    "vwma100": 0.0005636362532914027,
-    "pct_above": 2.9919556469478286
+    "close": 0.0005973,
+    "vwma100": 0.0005636690324677625,
+    "pct_above": 5.966438742430119
   },
   "JTO/USDT:USDT": {
     "symbol": "JTO/USDT:USDT",
-    "close": 0.6544,
-    "vwma100": 0.6193172951454212,
-    "pct_above": 5.664738435302542
-  },
-  "XAI/USDT:USDT": {
-    "symbol": "XAI/USDT:USDT",
-    "close": 0.007984,
-    "vwma100": 0.007316546443903633,
-    "pct_above": 9.12252196051471
+    "close": 0.6666,
+    "vwma100": 0.6193487406981325,
+    "pct_above": 7.6291846898091125
   },
   "JUP/USDT:USDT": {
     "symbol": "JUP/USDT:USDT",
-    "close": 0.21,
-    "vwma100": 0.2000903363623242,
-    "pct_above": 4.9525948218365405
+    "close": 0.2141,
+    "vwma100": 0.200115990105388,
+    "pct_above": 6.987952280698585
   },
   "BEAM/USDT:USDT": {
     "symbol": "BEAM/USDT:USDT",
-    "close": 0.001619,
-    "vwma100": 0.001523716851894384,
-    "pct_above": 6.253336897019529
+    "close": 0.001658,
+    "vwma100": 0.0015239347833198831,
+    "pct_above": 8.797306692354415
   },
-  "ONDO/USDT:USDT": {
-    "symbol": "ONDO/USDT:USDT",
-    "close": 0.3968,
-    "vwma100": 0.36968515100038474,
-    "pct_above": 7.334578877794047
+  "TAO/USDT:USDT": {
+    "symbol": "TAO/USDT:USDT",
+    "close": 247.2,
+    "vwma100": 228.63101348614603,
+    "pct_above": 8.121814372737822
   },
   "LSK/USDT:USDT": {
     "symbol": "LSK/USDT:USDT",
-    "close": 0.0929,
-    "vwma100": 0.08561939097984081,
-    "pct_above": 8.503458079809766
+    "close": 0.0941,
+    "vwma100": 0.08564524120881253,
+    "pct_above": 9.87183721109949
   },
   "NOT/USDT:USDT": {
     "symbol": "NOT/USDT:USDT",
-    "close": 0.00045,
-    "vwma100": 0.0004238476860324002,
-    "pct_above": 6.170215110151771
-  },
-  "ZRO/USDT:USDT": {
-    "symbol": "ZRO/USDT:USDT",
-    "close": 1.0066,
-    "vwma100": 0.9438422816792348,
-    "pct_above": 6.649174288855751
-  },
-  "BGB/USDT:USDT": {
-    "symbol": "BGB/USDT:USDT",
-    "close": 1.8982,
-    "vwma100": 1.7899237299827797,
-    "pct_above": 6.049211382781214
-  },
-  "1000CAT/USDT:USDT": {
-    "symbol": "1000CAT/USDT:USDT",
-    "close": 0.001945,
-    "vwma100": 0.0018342114802012218,
-    "pct_above": 6.0401170200190935
+    "close": 0.0004654,
+    "vwma100": 0.0004239344814484782,
+    "pct_above": 9.781114857617732
   },
   "CATI/USDT:USDT": {
     "symbol": "CATI/USDT:USDT",
-    "close": 0.05025,
-    "vwma100": 0.04856164072288499,
-    "pct_above": 3.476734418323229
+    "close": 0.05246,
+    "vwma100": 0.04857370174889251,
+    "pct_above": 8.00082783724858
   },
   "DIA/USDT:USDT": {
     "symbol": "DIA/USDT:USDT",
-    "close": 0.1429,
-    "vwma100": 0.13247560591912616,
-    "pct_above": 7.8689159476181105
-  },
-  "AERO/USDT:USDT": {
-    "symbol": "AERO/USDT:USDT",
-    "close": 0.4852,
-    "vwma100": 0.4546139974975674,
-    "pct_above": 6.727906019346943
-  },
-  "VELODROME/USDT:USDT": {
-    "symbol": "VELODROME/USDT:USDT",
-    "close": 0.020254,
-    "vwma100": 0.018448331609999306,
-    "pct_above": 9.78770562115217
+    "close": 0.1441,
+    "vwma100": 0.13247936589928527,
+    "pct_above": 8.771655889075648
   },
   "BIO/USDT:USDT": {
     "symbol": "BIO/USDT:USDT",
-    "close": 0.03262,
-    "vwma100": 0.031367180648871375,
-    "pct_above": 3.9940451300130033
+    "close": 0.03349,
+    "vwma100": 0.03137194918165064,
+    "pct_above": 6.751416069449068
   },
-  "S/USDT:USDT": {
-    "symbol": "S/USDT:USDT",
-    "close": 0.02905,
-    "vwma100": 0.026846536995747145,
-    "pct_above": 8.207624710039559
+  "ARC/USDT:USDT": {
+    "symbol": "ARC/USDT:USDT",
+    "close": 0.06997,
+    "vwma100": 0.06804586807741565,
+    "pct_above": 2.8276983995490665
   },
-  "TRUMP/USDT:USDT": {
-    "symbol": "TRUMP/USDT:USDT",
-    "close": 1.909,
-    "vwma100": 1.8606425642449442,
-    "pct_above": 2.5989642870864573
+  "PIPPIN/USDT:USDT": {
+    "symbol": "PIPPIN/USDT:USDT",
+    "close": 0.0218,
+    "vwma100": 0.020554199715639064,
+    "pct_above": 6.061049817537018
   },
   "VVV/USDT:USDT": {
     "symbol": "VVV/USDT:USDT",
-    "close": 16.0,
-    "vwma100": 14.871355789930972,
-    "pct_above": 7.589383416091796
+    "close": 15.942,
+    "vwma100": 14.872234438844,
+    "pct_above": 7.193038581761031
   },
   "HAEDAL/USDT:USDT": {
     "symbol": "HAEDAL/USDT:USDT",
-    "close": 0.01975,
-    "vwma100": 0.01877388849457937,
-    "pct_above": 5.199303840024754
+    "close": 0.02037,
+    "vwma100": 0.018777011710450497,
+    "pct_above": 8.483715695095999
+  },
+  "B2/USDT:USDT": {
+    "symbol": "B2/USDT:USDT",
+    "close": 0.4761,
+    "vwma100": 0.4622391261964968,
+    "pct_above": 2.998637072883999
   },
   "SOON/USDT:USDT": {
     "symbol": "SOON/USDT:USDT",
-    "close": 0.2119,
-    "vwma100": 0.19798759152129952,
-    "pct_above": 7.026909298608134
+    "close": 0.2164,
+    "vwma100": 0.1979947803765765,
+    "pct_above": 9.295810520064048
   },
   "LA/USDT:USDT": {
     "symbol": "LA/USDT:USDT",
-    "close": 0.06424,
-    "vwma100": 0.0615663634289097,
-    "pct_above": 4.342690427342746
+    "close": 0.06727,
+    "vwma100": 0.061584583980893316,
+    "pct_above": 9.231881830801337
   },
   "SQD/USDT:USDT": {
     "symbol": "SQD/USDT:USDT",
-    "close": 0.04229,
-    "vwma100": 0.040468754522296854,
-    "pct_above": 4.500374422691227
-  },
-  "TOWNS/USDT:USDT": {
-    "symbol": "TOWNS/USDT:USDT",
-    "close": 0.002675,
-    "vwma100": 0.002451542131755487,
-    "pct_above": 9.114991961590336
+    "close": 0.04248,
+    "vwma100": 0.04047081913382656,
+    "pct_above": 4.9645174206373115
   },
   "ILV/USDT:USDT": {
     "symbol": "ILV/USDT:USDT",
-    "close": 3.471,
-    "vwma100": 3.399034060747146,
-    "pct_above": 2.1172467814881295
+    "close": 3.615,
+    "vwma100": 3.399557196881156,
+    "pct_above": 6.33737838905894
   },
   "WLFI/USDT:USDT": {
     "symbol": "WLFI/USDT:USDT",
-    "close": 0.06272,
-    "vwma100": 0.05847476566344286,
-    "pct_above": 7.259942452768415
+    "close": 0.06324,
+    "vwma100": 0.05849198319386796,
+    "pct_above": 8.117380445786978
   },
   "Q/USDT:USDT": {
     "symbol": "Q/USDT:USDT",
-    "close": 0.022254,
-    "vwma100": 0.02056527472623656,
-    "pct_above": 8.211537634403767
-  },
-  "ASTER/USDT:USDT": {
-    "symbol": "ASTER/USDT:USDT",
-    "close": 0.7168,
-    "vwma100": 0.6672881344153481,
-    "pct_above": 7.419863029339237
+    "close": 0.022336,
+    "vwma100": 0.020565691008289647,
+    "pct_above": 8.608069580529902
   },
   "XAN/USDT:USDT": {
     "symbol": "XAN/USDT:USDT",
-    "close": 0.012286,
-    "vwma100": 0.011365645621371216,
-    "pct_above": 8.09768674203787
+    "close": 0.012446,
+    "vwma100": 0.0113660176805075,
+    "pct_above": 9.501853242271908
+  },
+  "KGEN/USDT:USDT": {
+    "symbol": "KGEN/USDT:USDT",
+    "close": 0.19488,
+    "vwma100": 0.19103957189134937,
+    "pct_above": 2.010278849889176
+  },
+  "GIGGLE/USDT:USDT": {
+    "symbol": "GIGGLE/USDT:USDT",
+    "close": 40.0,
+    "vwma100": 37.908711246405474,
+    "pct_above": 5.516644287908424
   },
   "MMT/USDT:USDT": {
     "symbol": "MMT/USDT:USDT",
-    "close": 0.1893,
-    "vwma100": 0.18476246992821155,
-    "pct_above": 2.4558721657875004
+    "close": 0.1949,
+    "vwma100": 0.1847674063220702,
+    "pct_above": 5.4839724600926365
   },
   "POWER/USDT:USDT": {
     "symbol": "POWER/USDT:USDT",
-    "close": 0.09054,
-    "vwma100": 0.08477215325007988,
-    "pct_above": 6.803940361057991
+    "close": 0.0896,
+    "vwma100": 0.0847753276079633,
+    "pct_above": 5.691127982834825
   },
   "US/USDT:USDT": {
     "symbol": "US/USDT:USDT",
-    "close": 0.023894,
-    "vwma100": 0.022901105638115322,
-    "pct_above": 4.335573913218226
+    "close": 0.023984,
+    "vwma100": 0.022901996609087472,
+    "pct_above": 4.724493717212363
   },
   "FRAX/USDT:USDT": {
     "symbol": "FRAX/USDT:USDT",
-    "close": 0.31508,
-    "vwma100": 0.3011783061166179,
-    "pct_above": 4.615768666286119
+    "close": 0.32383,
+    "vwma100": 0.30124980246064703,
+    "pct_above": 7.495506172921949
   },
   "INX/USDT:USDT": {
     "symbol": "INX/USDT:USDT",
-    "close": 0.00879,
-    "vwma100": 0.008278715801945193,
-    "pct_above": 6.175887786058231
-  },
-  "BASED/USDT:USDT": {
-    "symbol": "BASED/USDT:USDT",
-    "close": 0.09124,
-    "vwma100": 0.08583396168868766,
-    "pct_above": 6.298250954464354
+    "close": 0.008989,
+    "vwma100": 0.008278809187388724,
+    "pct_above": 8.578417457587067
   }
 }
