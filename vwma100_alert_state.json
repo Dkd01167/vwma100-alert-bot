@@ -2,114 +2,114 @@
   "bitget:BCH/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "BCH/USDT:USDT",
-    "close": 245.84,
-    "vwma100": 235.49366298773518,
-    "pct_above": 4.393467272537043
+    "close": 245.54,
+    "vwma100": 235.49517381852914,
+    "pct_above": 4.265406385445216
   },
   "bitget:LTC/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "LTC/USDT:USDT",
-    "close": 49.1,
-    "vwma100": 46.224977986637604,
-    "pct_above": 6.219628734476603
+    "close": 49.04,
+    "vwma100": 46.22512894291553,
+    "pct_above": 6.0894823258592
+  },
+  "bitget:ADA/USDT:USDT": {
+    "exchange": "bitget",
+    "symbol": "ADA/USDT:USDT",
+    "close": 0.2,
+    "vwma100": 0.18214366660788014,
+    "pct_above": 9.803433588806069
   },
   "bitget:ETC/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ETC/USDT:USDT",
-    "close": 7.526,
-    "vwma100": 7.292343730855945,
-    "pct_above": 3.2041313159086213
+    "close": 7.49,
+    "vwma100": 7.292323463221528,
+    "pct_above": 2.7107483338533136
   },
   "bitget:DOGE/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "DOGE/USDT:USDT",
-    "close": 0.08486,
-    "vwma100": 0.08233643911407282,
-    "pct_above": 3.064938091907188
+    "close": 0.08436,
+    "vwma100": 0.08233577221987859,
+    "pct_above": 2.4585034251159903
   },
   "bitget:SUSHI/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "SUSHI/USDT:USDT",
-    "close": 0.1892,
-    "vwma100": 0.17711387774005596,
-    "pct_above": 6.823927302682874
+    "close": 0.188,
+    "vwma100": 0.17711391178067545,
+    "pct_above": 6.146376707440723
   },
   "bitget:AVAX/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "AVAX/USDT:USDT",
-    "close": 7.285,
-    "vwma100": 6.924679450394619,
-    "pct_above": 5.2034256919264
+    "close": 7.272,
+    "vwma100": 6.924726752174303,
+    "pct_above": 5.014974023583768
   },
   "bitget:DASH/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "DASH/USDT:USDT",
-    "close": 38.72,
-    "vwma100": 36.97487228805579,
-    "pct_above": 4.719766706288112
+    "close": 38.3,
+    "vwma100": 36.97461583763931,
+    "pct_above": 3.5845785881336294
   },
   "bitget:SHIB/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "SHIB/USDT:USDT",
-    "close": 5.132e-06,
-    "vwma100": 4.888587855283409e-06,
-    "pct_above": 4.979191372279824
+    "close": 5.104e-06,
+    "vwma100": 4.888684312025614e-06,
+    "pct_above": 4.404368828740563
   },
   "bitget:MANA/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "MANA/USDT:USDT",
-    "close": 0.073891,
-    "vwma100": 0.07141774960451701,
-    "pct_above": 3.463075228747564
-  },
-  "bitget:KSM/USDT:USDT": {
-    "exchange": "bitget",
-    "symbol": "KSM/USDT:USDT",
-    "close": 3.561,
-    "vwma100": 3.475568504463619,
-    "pct_above": 2.4580581688049805
+    "close": 0.073222,
+    "vwma100": 0.07141758754130928,
+    "pct_above": 2.5265659633868327
   },
   "bitget:ALICE/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ALICE/USDT:USDT",
-    "close": 0.1401,
-    "vwma100": 0.13505656898468069,
-    "pct_above": 3.734310040033215
+    "close": 0.1393,
+    "vwma100": 0.13505638639972306,
+    "pct_above": 3.1421050965462882
   },
   "bitget:ZRX/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ZRX/USDT:USDT",
-    "close": 0.0974,
-    "vwma100": 0.08861356935361568,
-    "pct_above": 9.915446032110214
+    "close": 0.0966,
+    "vwma100": 0.08861360423183981,
+    "pct_above": 9.012606853531636
   },
   "bitget:ENS/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ENS/USDT:USDT",
-    "close": 5.576,
-    "vwma100": 5.133613505220073,
-    "pct_above": 8.61744839828883
+    "close": 5.533,
+    "vwma100": 5.133659861812435,
+    "pct_above": 7.778858532450146
   },
   "bitget:RSR/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "RSR/USDT:USDT",
-    "close": 0.001421,
-    "vwma100": 0.0013531180753229715,
-    "pct_above": 5.016703709380712
+    "close": 0.001409,
+    "vwma100": 0.0013531099058028313,
+    "pct_above": 4.130491836434226
   },
   "bitget:COMP/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "COMP/USDT:USDT",
-    "close": 18.31,
-    "vwma100": 17.766613666624327,
-    "pct_above": 3.058468786296943
+    "close": 18.2,
+    "vwma100": 17.766567075225954,
+    "pct_above": 2.439598617666735
   },
   "bitget:TRB/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "TRB/USDT:USDT",
-    "close": 16.97,
-    "vwma100": 16.001752441394917,
-    "pct_above": 6.0508845025018845
+    "close": 16.916,
+    "vwma100": 16.001685415618194,
+    "pct_above": 5.713864262632009
   },
   "bitget:BAND/USDT:USDT": {
     "exchange": "bitget",
@@ -118,312 +118,326 @@
     "vwma100": 0.16859647407050246,
     "pct_above": 2.3153069784040543
   },
-  "bitget:MAGIC/USDT:USDT": {
-    "exchange": "bitget",
-    "symbol": "MAGIC/USDT:USDT",
-    "close": 0.04602,
-    "vwma100": 0.044750995043336246,
-    "pct_above": 2.835702212732623
-  },
   "bitget:ANKR/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ANKR/USDT:USDT",
-    "close": 0.004036,
-    "vwma100": 0.0038353416312509095,
-    "pct_above": 5.231825168170083
+    "close": 0.004015,
+    "vwma100": 0.0038353309065231496,
+    "pct_above": 4.6845786675477905
   },
   "bitget:ACH/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ACH/USDT:USDT",
-    "close": 0.004926,
-    "vwma100": 0.004793947804017806,
-    "pct_above": 2.7545605705494083
+    "close": 0.004922,
+    "vwma100": 0.004793948092106474,
+    "pct_above": 2.67111586177522
   },
   "bitget:LQTY/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "LQTY/USDT:USDT",
-    "close": 0.2235,
-    "vwma100": 0.20763752490935677,
-    "pct_above": 7.639503070347193
+    "close": 0.2228,
+    "vwma100": 0.20763686510417345,
+    "pct_above": 7.302718083428515
   },
   "bitget:JOE/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "JOE/USDT:USDT",
-    "close": 0.03125,
-    "vwma100": 0.030170562270903298,
-    "pct_above": 3.5777845948125386
+    "close": 0.03114,
+    "vwma100": 0.030170653619575223,
+    "pct_above": 3.2128782910949263
+  },
+  "bitget:HOT/USDT:USDT": {
+    "exchange": "bitget",
+    "symbol": "HOT/USDT:USDT",
+    "close": 0.0003833,
+    "vwma100": 0.00034990735843795797,
+    "pct_above": 9.543280744683988
+  },
+  "bitget:ONT/USDT:USDT": {
+    "exchange": "bitget",
+    "symbol": "ONT/USDT:USDT",
+    "close": 0.05605,
+    "vwma100": 0.05142956388278025,
+    "pct_above": 8.98400796816163
   },
   "bitget:SFP/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "SFP/USDT:USDT",
-    "close": 0.2584,
-    "vwma100": 0.2496992774428284,
-    "pct_above": 3.48448047037851
+    "close": 0.2579,
+    "vwma100": 0.24969936793479353,
+    "pct_above": 3.284202172008703
   },
   "bitget:CTK/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "CTK/USDT:USDT",
-    "close": 0.1178,
-    "vwma100": 0.11286667320846913,
-    "pct_above": 4.370933111866267
+    "close": 0.1173,
+    "vwma100": 0.112866563597833,
+    "pct_above": 3.9280334767383027
   },
-  "bitget:ZEN/USDT:USDT": {
+  "bitget:TURBO/USDT:USDT": {
     "exchange": "bitget",
-    "symbol": "ZEN/USDT:USDT",
-    "close": 4.94,
-    "vwma100": 4.838680582352377,
-    "pct_above": 2.093947222248049
+    "symbol": "TURBO/USDT:USDT",
+    "close": 0.001014,
+    "vwma100": 0.0009279952047341179,
+    "pct_above": 9.267806000196243
   },
   "bitget:OGN/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "OGN/USDT:USDT",
-    "close": 0.0187,
-    "vwma100": 0.01767138952690102,
-    "pct_above": 5.8207673569366865
+    "close": 0.01856,
+    "vwma100": 0.01767134985048241,
+    "pct_above": 5.02876213213181
   },
   "bitget:1000SATS/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "1000SATS/USDT:USDT",
-    "close": 1.12e-05,
-    "vwma100": 1.0695689230816358e-05,
-    "pct_above": 4.715084351278874
+    "close": 1.11e-05,
+    "vwma100": 1.0695699036253968e-05,
+    "pct_above": 3.780033099058048
   },
   "bitget:XAI/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "XAI/USDT:USDT",
-    "close": 0.007495,
-    "vwma100": 0.00728744100135405,
-    "pct_above": 2.8481739832594752
+    "close": 0.007455,
+    "vwma100": 0.007287417151634879,
+    "pct_above": 2.2996192598570353
   },
   "bitget:JUP/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "JUP/USDT:USDT",
-    "close": 0.2201,
-    "vwma100": 0.2013605905093165,
-    "pct_above": 9.306393790008501
+    "close": 0.2184,
+    "vwma100": 0.20135918136087716,
+    "pct_above": 8.462896265247618
   },
   "bitget:AEVO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "AEVO/USDT:USDT",
-    "close": 0.02219,
-    "vwma100": 0.02042134018181905,
-    "pct_above": 8.660841073278705
+    "close": 0.02215,
+    "vwma100": 0.020421331817711396,
+    "pct_above": 8.46501196748261
   },
   "bitget:TAO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "TAO/USDT:USDT",
-    "close": 235.36,
-    "vwma100": 226.13442770366578,
-    "pct_above": 4.079684986500038
+    "close": 233.71,
+    "vwma100": 226.1341591764373,
+    "pct_above": 3.350153223711679
   },
   "bitget:ONG/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ONG/USDT:USDT",
-    "close": 0.11847,
-    "vwma100": 0.11122999385214212,
-    "pct_above": 6.509041219117585
+    "close": 0.1168,
+    "vwma100": 0.11121875515509565,
+    "pct_above": 5.018258689482051
   },
   "bitget:GLM/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "GLM/USDT:USDT",
-    "close": 0.1126,
-    "vwma100": 0.10486713183082258,
-    "pct_above": 7.37396745212076
+    "close": 0.1125,
+    "vwma100": 0.10486733733182053,
+    "pct_above": 7.278398462648335
   },
   "bitget:MEW/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "MEW/USDT:USDT",
-    "close": 0.0004184,
-    "vwma100": 0.0003860870155001535,
-    "pct_above": 8.369352814931341
+    "close": 0.0004147,
+    "vwma100": 0.00038607179256715094,
+    "pct_above": 7.415254878500257
   },
   "bitget:ZRO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ZRO/USDT:USDT",
-    "close": 1.0607,
-    "vwma100": 0.9997725675990559,
-    "pct_above": 6.094129242539706
+    "close": 1.0548,
+    "vwma100": 0.9998282357105166,
+    "pct_above": 5.498120809762719
   },
   "bitget:BGB/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "BGB/USDT:USDT",
-    "close": 1.8863,
-    "vwma100": 1.7967441299353029,
-    "pct_above": 4.984341875541396
+    "close": 1.8826,
+    "vwma100": 1.796745369301,
+    "pct_above": 4.778341559460961
   },
-  "bitget:1000000MOG/USDT:USDT": {
+  "bitget:GAS/USDT:USDT": {
     "exchange": "bitget",
-    "symbol": "1000000MOG/USDT:USDT",
-    "close": 0.1142,
-    "vwma100": 0.11109883739730049,
-    "pct_above": 2.791354685026487
+    "symbol": "GAS/USDT:USDT",
+    "close": 1.264,
+    "vwma100": 1.160378851653356,
+    "pct_above": 8.929941130778134
   },
   "bitget:1000CAT/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "1000CAT/USDT:USDT",
-    "close": 0.00192,
-    "vwma100": 0.0018394923902922346,
-    "pct_above": 4.37662097068939
+    "close": 0.001913,
+    "vwma100": 0.0018394921802404446,
+    "pct_above": 3.99609308205632
   },
   "bitget:1MBABYDOGE/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "1MBABYDOGE/USDT:USDT",
-    "close": 0.0003614,
-    "vwma100": 0.0003353236598344473,
-    "pct_above": 7.7764689131768625
+    "close": 0.0003591,
+    "vwma100": 0.00033532239011321597,
+    "pct_above": 7.090969940526763
   },
   "bitget:CATI/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "CATI/USDT:USDT",
-    "close": 0.05296,
-    "vwma100": 0.04869486028454938,
-    "pct_above": 8.758911496053578
-  },
-  "bitget:MOODENG/USDT:USDT": {
-    "exchange": "bitget",
-    "symbol": "MOODENG/USDT:USDT",
-    "close": 0.04271,
-    "vwma100": 0.04127691100395835,
-    "pct_above": 3.4718901225535546
+    "close": 0.05294,
+    "vwma100": 0.04869489825075366,
+    "pct_above": 8.71775463496453
   },
   "bitget:OG/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "OG/USDT:USDT",
-    "close": 2.9171,
-    "vwma100": 2.7161247415922967,
-    "pct_above": 7.3993383046864025
+    "close": 2.8975,
+    "vwma100": 2.716144381746323,
+    "pct_above": 6.676950587474881
   },
   "bitget:NEIROCTO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "NEIROCTO/USDT:USDT",
-    "close": 8.838e-05,
-    "vwma100": 8.410730315721515e-05,
-    "pct_above": 5.080054504658457
+    "close": 8.75e-05,
+    "vwma100": 8.410651178847256e-05,
+    "pct_above": 4.034750864549041
   },
   "bitget:GOAT/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "GOAT/USDT:USDT",
-    "close": 0.01545,
-    "vwma100": 0.014294086786604824,
-    "pct_above": 8.086653108041835
+    "close": 0.01529,
+    "vwma100": 0.014294091812947728,
+    "pct_above": 6.967271513886374
   },
   "bitget:VIRTUAL/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "VIRTUAL/USDT:USDT",
-    "close": 0.6847,
-    "vwma100": 0.6401227090783596,
-    "pct_above": 6.963866503943008
+    "close": 0.6828,
+    "vwma100": 0.640139910525158,
+    "pct_above": 6.664182122287069
   },
   "bitget:AERO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "AERO/USDT:USDT",
-    "close": 0.4835,
-    "vwma100": 0.4615810799604746,
-    "pct_above": 4.748660850960857
+    "close": 0.4817,
+    "vwma100": 0.4615852286733025,
+    "pct_above": 4.3577588876732065
+  },
+  "bitget:PNUT/USDT:USDT": {
+    "exchange": "bitget",
+    "symbol": "PNUT/USDT:USDT",
+    "close": 0.05075,
+    "vwma100": 0.04628050622070533,
+    "pct_above": 9.657400370644776
   },
   "bitget:ACT/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ACT/USDT:USDT",
-    "close": 0.01118,
-    "vwma100": 0.010855685654873232,
-    "pct_above": 2.987506781583899
+    "close": 0.01119,
+    "vwma100": 0.010855690115496778,
+    "pct_above": 3.079582052788943
   },
   "bitget:THE/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "THE/USDT:USDT",
-    "close": 0.06884,
-    "vwma100": 0.06265767177752075,
-    "pct_above": 9.866833616848869
+    "close": 0.06851,
+    "vwma100": 0.06265765565991692,
+    "pct_above": 9.34019040202763
   },
   "bitget:ORCA/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ORCA/USDT:USDT",
-    "close": 1.264,
-    "vwma100": 1.2058525885446878,
-    "pct_above": 4.822099484439373
+    "close": 1.26,
+    "vwma100": 1.2058542873876017,
+    "pct_above": 4.490236770621862
   },
   "bitget:AVA/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "AVA/USDT:USDT",
-    "close": 0.2019,
-    "vwma100": 0.18531708470148048,
-    "pct_above": 8.948400696693584
+    "close": 0.2006,
+    "vwma100": 0.1853157267907875,
+    "pct_above": 8.247693530332533
   },
   "bitget:TOSHI/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "TOSHI/USDT:USDT",
-    "close": 0.0001247,
-    "vwma100": 0.00011952149207174236,
-    "pct_above": 4.332700201859307
+    "close": 0.0001238,
+    "vwma100": 0.00011952030098473377,
+    "pct_above": 3.580729783982786
   },
   "bitget:VVV/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "VVV/USDT:USDT",
-    "close": 15.971,
-    "vwma100": 14.844743125548986,
-    "pct_above": 7.586907128845071
+    "close": 15.973,
+    "vwma100": 14.844873681380122,
+    "pct_above": 7.59943360134404
   },
   "bitget:RED/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "RED/USDT:USDT",
-    "close": 0.1085,
-    "vwma100": 0.10256199578569092,
-    "pct_above": 5.789673035143423
+    "close": 0.1095,
+    "vwma100": 0.1025641438935456,
+    "pct_above": 6.762456978779385
   },
   "bitget:DOLO/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "DOLO/USDT:USDT",
-    "close": 0.02575,
-    "vwma100": 0.02438851772303565,
-    "pct_above": 5.582472425859605
+    "close": 0.02551,
+    "vwma100": 0.024389154883989315,
+    "pct_above": 4.595670171197626
   },
   "bitget:SOON/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "SOON/USDT:USDT",
-    "close": 0.213,
-    "vwma100": 0.20113894778155833,
-    "pct_above": 5.896944549656811
+    "close": 0.2136,
+    "vwma100": 0.20114181590304578,
+    "pct_above": 6.193731542604406
   },
   "bitget:TOWNS/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "TOWNS/USDT:USDT",
-    "close": 0.002517,
-    "vwma100": 0.0023004456362963515,
-    "pct_above": 9.413583189572552
+    "close": 0.002512,
+    "vwma100": 0.0023004402599592307,
+    "pct_above": 9.196489199181313
   },
   "bitget:ASTER/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ASTER/USDT:USDT",
     "close": 0.6986,
-    "vwma100": 0.6666720870319195,
-    "pct_above": 4.789148006814906
+    "vwma100": 0.6666756059792578,
+    "pct_above": 4.788594892991401
+  },
+  "bitget:XAN/USDT:USDT": {
+    "exchange": "bitget",
+    "symbol": "XAN/USDT:USDT",
+    "close": 0.012525,
+    "vwma100": 0.011452362618540194,
+    "pct_above": 9.36607944742613
   },
   "bitget:FF/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "FF/USDT:USDT",
-    "close": 0.09248,
-    "vwma100": 0.08481248946020602,
-    "pct_above": 9.040544132820889
+    "close": 0.09245,
+    "vwma100": 0.08481362385946378,
+    "pct_above": 9.003714017914977
   },
   "bitget:ZAMA/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ZAMA/USDT:USDT",
-    "close": 0.05078,
-    "vwma100": 0.047280958177696425,
-    "pct_above": 7.400530693885465
+    "close": 0.05074,
+    "vwma100": 0.04728108341151685,
+    "pct_above": 7.315645790892809
   },
   "bitget:FRAX/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "FRAX/USDT:USDT",
-    "close": 0.29912,
-    "vwma100": 0.29204547638292716,
-    "pct_above": 2.422404792805895
+    "close": 0.29883,
+    "vwma100": 0.29204559408906633,
+    "pct_above": 2.3230639490026297
   },
   "bitget:ESP/USDT:USDT": {
     "exchange": "bitget",
     "symbol": "ESP/USDT:USDT",
-    "close": 0.081635,
-    "vwma100": 0.07685989920367317,
-    "pct_above": 6.212733617660826
+    "close": 0.082145,
+    "vwma100": 0.07685999308648846,
+    "pct_above": 6.876148046961784
   }
 }
